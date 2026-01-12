@@ -10,6 +10,8 @@ Welcome to the React Workshop! In this workshop, we will build a simple shopping
 
 ## Getting Started
 
+
+Finish this!!!!!
 ### Prerequisites
 
 Make sure you have the following installed on your machine:
